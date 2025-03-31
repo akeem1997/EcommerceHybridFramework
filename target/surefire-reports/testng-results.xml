@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-31T11:23:22 CDT" name="Suite" finished-at="2025-03-31T11:24:49 CDT" duration-ms="86604">
+    <groups>
+    </groups>
+    <test started-at="2025-03-31T11:23:22 CDT" name="Test" finished-at="2025-03-31T11:24:49 CDT" duration-ms="86604">
+      <class name="testCases.RegisterUser">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.RegisterUser@38f116f6]" started-at="2025-03-31T11:23:33 CDT" name="setup" finished-at="2025-03-31T11:23:38 CDT" duration-ms="4647" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[headless]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="RegisterUserInfo()[pri:1, instance:testCases.RegisterUser@38f116f6]" started-at="2025-03-31T11:23:38 CDT" name="RegisterUserInfo" finished-at="2025-03-31T11:23:46 CDT" duration-ms="8588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterUserInfo -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.RegisterUser@38f116f6]" started-at="2025-03-31T11:23:46 CDT" name="teardown" finished-at="2025-03-31T11:23:47 CDT" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.RegisterUser -->
+      <class name="testCases.ViewCategoryProduct">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.ViewCategoryProduct@5c530d1e]" started-at="2025-03-31T11:24:07 CDT" name="setup" finished-at="2025-03-31T11:24:11 CDT" duration-ms="3624" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[headless]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyCategoryProduct()[pri:1, instance:testCases.ViewCategoryProduct@5c530d1e]" started-at="2025-03-31T11:24:11 CDT" name="VerifyCategoryProduct" finished-at="2025-03-31T11:24:20 CDT" duration-ms="9306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCategoryProduct -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.ViewCategoryProduct@5c530d1e]" started-at="2025-03-31T11:24:20 CDT" name="teardown" finished-at="2025-03-31T11:24:21 CDT" duration-ms="435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.ViewCategoryProduct -->
+      <class name="testCases.RemoveProductFromCart">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.RemoveProductFromCart@6e6d5d29]" started-at="2025-03-31T11:23:58 CDT" name="setup" finished-at="2025-03-31T11:24:01 CDT" duration-ms="3100" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[headless]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyProductRemovedFromCart()[pri:1, instance:testCases.RemoveProductFromCart@6e6d5d29]" started-at="2025-03-31T11:24:01 CDT" name="verifyProductRemovedFromCart" finished-at="2025-03-31T11:24:07 CDT" duration-ms="6216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductRemovedFromCart -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.RemoveProductFromCart@6e6d5d29]" started-at="2025-03-31T11:24:07 CDT" name="teardown" finished-at="2025-03-31T11:24:07 CDT" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.RemoveProductFromCart -->
+      <class name="testCases.ContactUsForm">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.ContactUsForm@2374d36a]" started-at="2025-03-31T11:23:22 CDT" name="setup" finished-at="2025-03-31T11:23:28 CDT" duration-ms="6018" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[headless]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_contactUs_Form()[pri:0, instance:testCases.ContactUsForm@2374d36a]" started-at="2025-03-31T11:23:28 CDT" name="verify_contactUs_Form" finished-at="2025-03-31T11:23:33 CDT" duration-ms="4544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_contactUs_Form -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.ContactUsForm@2374d36a]" started-at="2025-03-31T11:23:33 CDT" name="teardown" finished-at="2025-03-31T11:23:33 CDT" duration-ms="262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.ContactUsForm -->
+      <class name="testCases.verifySubscriptionInHomePage">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.verifySubscriptionInHomePage@6c25e6c4]" started-at="2025-03-31T11:24:21 CDT" name="setup" finished-at="2025-03-31T11:24:24 CDT" duration-ms="3521" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[headless]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySubInHomepage()[pri:1, instance:testCases.verifySubscriptionInHomePage@6c25e6c4]" started-at="2025-03-31T11:24:24 CDT" name="verifySubInHomepage" finished-at="2025-03-31T11:24:25 CDT" duration-ms="408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySubInHomepage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.verifySubscriptionInHomePage@6c25e6c4]" started-at="2025-03-31T11:24:25 CDT" name="teardown" finished-at="2025-03-31T11:24:25 CDT" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.verifySubscriptionInHomePage -->
+      <class name="testCases.RegisterWhileCheckOut">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.RegisterWhileCheckOut@85e6769]" started-at="2025-03-31T11:24:25 CDT" name="setup" finished-at="2025-03-31T11:24:29 CDT" duration-ms="3856" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[headless]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_Register_while_checkedout()[pri:0, instance:testCases.RegisterWhileCheckOut@85e6769]" started-at="2025-03-31T11:24:29 CDT" name="verify_Register_while_checkedout" finished-at="2025-03-31T11:24:48 CDT" duration-ms="19561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Register_while_checkedout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.RegisterWhileCheckOut@85e6769]" started-at="2025-03-31T11:24:48 CDT" name="teardown" finished-at="2025-03-31T11:24:49 CDT" duration-ms="223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.RegisterWhileCheckOut -->
+      <class name="testCases.AddProductInCartsTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.AddProductInCartsTest@5286c33a]" started-at="2025-03-31T11:23:47 CDT" name="setup" finished-at="2025-03-31T11:23:50 CDT" duration-ms="3731" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[headless]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="AddProductInCarts()[pri:1, instance:testCases.AddProductInCartsTest@5286c33a]" started-at="2025-03-31T11:23:50 CDT" name="AddProductInCarts" finished-at="2025-03-31T11:23:58 CDT" duration-ms="7286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddProductInCarts -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.AddProductInCartsTest@5286c33a]" started-at="2025-03-31T11:23:58 CDT" name="teardown" finished-at="2025-03-31T11:23:58 CDT" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.AddProductInCartsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

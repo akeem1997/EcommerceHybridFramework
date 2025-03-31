@@ -1,0 +1,39 @@
+18:43:370 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akeem\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+18:55:296 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+18:55:406 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akeem\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+18:06:762 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+18:06:885 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akeem\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+18:21:950 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+18:22:008 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akeem\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+18:13:641 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akeem\eclipse-workspace\ECommerceFramework\testng.xml
+
+18:14:953 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.36.0 (resolved driver for Firefox 135)
+18:15:045 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+18:15:227 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Downloading https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+18:16:317 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file geckodriver-v0.36.0-win64.zip
+18:16:423 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\akeem\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+18:40:703 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.36.0 (resolved driver for Firefox 135)
+18:40:814 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\akeem\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+18:55:552 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.36.0 (resolved driver for Firefox 135)
+18:55:659 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\akeem\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+18:11:384 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.36.0 (resolved driver for Firefox 135)
+18:11:480 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\akeem\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+18:24:190 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.36.0 (resolved driver for Firefox 135)
+18:24:360 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\akeem\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+18:23:709 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akeem\eclipse-workspace\ECommerceFramework\testng.xml
+
+18:19:119 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akeem\eclipse-workspace\ECommerceFramework\testng.xml
+
+18:19:751 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.36.0 (resolved driver for Firefox 135)
+18:19:863 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\akeem\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+18:34:337 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.36.0 (resolved driver for Firefox 135)
+18:34:457 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\akeem\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+18:47:657 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.36.0 (resolved driver for Firefox 135)
+18:47:739 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\akeem\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+18:01:363 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.36.0 (resolved driver for Firefox 135)
+18:01:454 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\akeem\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+18:13:356 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.36.0 (resolved driver for Firefox 135)
+18:13:439 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\akeem\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe

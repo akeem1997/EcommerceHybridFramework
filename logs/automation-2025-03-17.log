@@ -1,0 +1,40 @@
+15:56:599 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akeem\eclipse-workspace\ECommerceFramework\testng.xml
+
+15:57:166 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+15:57:249 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akeem\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+15:30:565 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akeem\eclipse-workspace\ECommerceFramework\testng.xml
+
+15:31:097 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+15:31:182 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akeem\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+15:49:319 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akeem\eclipse-workspace\ECommerceFramework\testng.xml
+
+15:49:991 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+15:50:169 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akeem\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+15:13:719 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+15:13:825 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akeem\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+15:35:047 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+15:35:165 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akeem\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+15:45:060 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+15:45:129 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akeem\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+15:59:785 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+15:59:983 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akeem\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+15:04:706 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+15:04:767 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akeem\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+21:23:890 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akeem\eclipse-workspace\ECommerceFramework\testng.xml
+
+21:26:283 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+21:26:681 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akeem\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+21:25:464 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+21:25:753 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akeem\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+21:48:232 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+21:48:489 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akeem\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+21:02:371 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+21:02:614 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akeem\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+21:18:330 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+21:18:572 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akeem\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+21:25:247 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+21:25:303 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akeem\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe

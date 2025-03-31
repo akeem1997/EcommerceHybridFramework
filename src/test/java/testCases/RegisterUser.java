@@ -46,6 +46,8 @@ public class RegisterUser extends BaseClass {
 		ea.enterCity("Brooklyn");
 		ea.enterZipCode("55432");
 		ea.enterMobileNumber("6212346342");
+		JavascriptExecutor jss = (JavascriptExecutor) driver;
+		jss.executeScript("window.scrollBy(0,100);");
 		Thread.sleep(2000);
 		ea.clickCreateAccount();
 		Boolean acct =ea.AccountCreatedDisplay();

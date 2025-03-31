@@ -5,15 +5,15 @@
     <listener class-name="utilities.ExtentReportManager"/>
   </listeners>
   <test thread-count="5" name="Test(failed)">
-    <parameter name="browser" value="chrome"/>
+    <parameter name="browser" value="headless"/>
     <classes>
-      <class name="testCases.RegisterUser">
+      <class name="testCases.RegisterWhileCheckOut">
         <methods>
           <include name="teardown"/>
-          <include name="RegisterUserInfo"/>
+          <include name="verify_Register_while_checkedout"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testCases.RegisterUser -->
+      </class> <!-- testCases.RegisterWhileCheckOut -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

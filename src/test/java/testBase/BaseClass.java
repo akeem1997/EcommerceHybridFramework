@@ -11,6 +11,7 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterClass;
@@ -29,8 +30,23 @@ public class BaseClass {
 	@Parameters("browser")
 	public void setup(String br) {
 		
+		boolean isHeadless = true;
+		if(br.equalsIgnoreCase("Headless")) {
+			
+			ChromeOptions options = new ChromeOptions();
+			if(isHeadless) {
+				options.addArguments("--headless");
+				
+			}
+			WebDriverManager.chromedriver().setup();
+			driver = new ChromeDriver(options);
+			
+		}
 		
-		if(br.equalsIgnoreCase("Chrome")) {
+		
+		
+		
+		else if(br.equalsIgnoreCase("Chrome")) {
 			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver();
 		}
@@ -38,6 +54,7 @@ public class BaseClass {
 			driver = new EdgeDriver();
 		}
 		else if (br.equalsIgnoreCase("Firefox")) {
+			WebDriverManager.firefoxdriver().setup();
 			driver = new FirefoxDriver();
 		}
 		else {
@@ -48,6 +65,7 @@ public class BaseClass {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		driver.manage().window().maximize();
 		driver.get("http://automationexercise.com");
+		
 		
 	}
 	

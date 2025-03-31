@@ -13,17 +13,17 @@ public class ECommerceApiTests {
 		Response res =EcommerceEndPoints.getProducts();
 		
 		Assert.assertEquals(res.getStatusCode(), 200);
-	}
+	} 
 	
-	@Test(priority = 2)
+	@Test(priority = 3)
 	public void postToAllProductLists() {
 		Response res = EcommerceEndPoints.PostProducts();
 		String getResCode = res.jsonPath().get("message").toString();
 		Assert.assertEquals(getResCode,  "This request method is not supported.");
 		Assert.assertEquals(res.getStatusCode(), 405);
-	}
+	} 
 	
-	@Test(priority = 3)
+	@Test(priority = 2)
 	public void getAllBrandList() {
 		Response res = EcommerceEndPoints.getBrands();
 		Assert.assertEquals(res.getStatusCode(), 200);
@@ -36,7 +36,7 @@ public class ECommerceApiTests {
 		Assert.assertEquals(getResCode,  "This request method is not supported.");
 		Assert.assertEquals(res.getStatusCode(), 405);
 		
-	}
+	} 
 	
 	
 	

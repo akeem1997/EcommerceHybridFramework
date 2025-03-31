@@ -6,9 +6,22 @@
 
 </listeners>
   <test thread-count="5" name="Test">
-  <parameter name="browser" value="chrome"/>
+  <parameter name="browser" value="headless"/>
     <classes>
-      <class name="testCases.RegisterUser"/>
+           <class name="testCases.ContactUsForm"/> 
+           <class name="testCases.RegisterUser"/> 
+        <class name="testCases.AddProductInCartsTest"/> 
+        <class name="testCases.RemoveProductFromCart"/> 
+      <class name="testCases.ViewCategoryProduct"/>
+      <class name = "testCases.verifySubscriptionInHomePage"/> 
+      <class name = "testCases.RegisterWhileCheckOut"/>  
+      <!-- <class name="testCases.SearchProduct"/>
+      <class name="testCases.ECommerceApiTests"/>  -->
+      
+     
+      
+      
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
